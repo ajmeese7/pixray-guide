@@ -1,7 +1,7 @@
 # pixray-guide
 
 <p align="center">
-    <img src="./example-result.png" alt="Example result of following this guide" />
+    <img src="./example-result.png" alt="Example output of create-image.py" title="Example output of create-image.py" />
 </p>
 
 When I first tried to break into machine learning and image generation, I quickly grew very frustrated with my inability to get things configured how they needed to be due to conflicting local packages.
@@ -28,3 +28,7 @@ If you are just looking to get an idea of what is possible with top-notch hardwa
 ## Customization
 
 All the options currently available for `pixray` can be found in the [official documentation](https://dazhizhong.gitbook.io/pixray-docs/docs/primary-settings).
+
+## TODO
+- Add GUI-based ipynb with all the available settings
+- Explore the actual pixray source code for a deeper understanding of how the library really functions and to gleam insight into how to write a similar program of my own
